@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PostFetch</string>
+    <string name="news_prompt">Shelf</string>
+</resources>
